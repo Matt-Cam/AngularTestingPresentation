@@ -1,5 +1,7 @@
 # TestingAngular
 
+This project is to be used as a learning tool as part of my Angular Testing presentation. Please pull it, hack it, and learn it. The code base is based on Angular's Tour of Heroes starter tutorial. If you are new to Angular, it is recommended you go through [Tour of Heroes](https://angular.io/tutorial) first. Additionally, credit to Joe Eames' Pluralsight course, 'Unit Testing in Agnular'.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
