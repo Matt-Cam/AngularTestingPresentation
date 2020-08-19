@@ -1,6 +1,6 @@
 import { MessageService } from './message.service';
 
-fdescribe('MessageService', () => {
+describe('MessageService', () => {
   let service: MessageService;
 
   it('should initialize with an empty messages array', () => {
