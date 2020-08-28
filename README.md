@@ -4,6 +4,9 @@ This project is to be used as a learning tool as part of my Angular Testing pres
 
 ## Please feel free to use this code and powerpoint for instruction purposes. Just credit SirMattCam :). 
 
+
+___
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
